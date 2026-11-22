@@ -1,0 +1,14 @@
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Large or generated artifacts
+*.vhdx
+*.tar
+*.iso
+bzImage
+
+# Editor files
+.vscode/
+*.swp
